@@ -1,0 +1,20 @@
+---
+title: "dashboard.qmd"
+---
+
+# Marketing Dashboard
+
+This dashboard demonstrates my ability to analyze and visualize marketing data.
+
+```{r}
+library(ggplot2)
+
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  labs(title = "Sample Data Visualization",
+       x = "Weight",
+       y = "Miles per Gallon")
+```
+
+
+

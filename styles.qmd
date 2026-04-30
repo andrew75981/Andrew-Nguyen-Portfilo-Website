@@ -1,0 +1,30 @@
+---
+title: "styles"
+---
+
+```{css}
+body {
+  font-family: -apple-system, sans-serif;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.subtitle {
+  color: #666;
+}
+
+h2 {
+  margin-top: 40px;
+}
+```

@@ -1,0 +1,7 @@
+"0","library(ggplot2)"
+"0",""
+"0","ggplot(mtcars, aes(x = wt, y = mpg)) +"
+"0","  geom_point() +"
+"0","  labs(title = ""Sample Data Visualization"","
+"0","       x = ""Weight"","
+"0","       y = ""Miles per Gallon"")"

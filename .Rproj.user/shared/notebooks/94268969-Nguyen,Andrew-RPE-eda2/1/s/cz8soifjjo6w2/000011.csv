@@ -1,0 +1,4 @@
+"0",""
+"0","# create a new variable by regrouping categories within 'major' variable "
+"0",""
+"0","data |> count(Major)"

@@ -1,0 +1,17 @@
+{
+  "hash": "0604171fcee6940aecbb432c21286e2f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"dashboard.qmd\"\n---\n\n# Marketing Dashboard\n\nThis dashboard demonstrates my ability to analyze and visualize marketing data.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = mpg)) +\n  geom_point() +\n  labs(title = \"Sample Data Visualization\",\n       x = \"Weight\",\n       y = \"Miles per Gallon\")\n```\n\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\n\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

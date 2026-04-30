@@ -1,0 +1,15 @@
+{
+  "hash": "e5853be7f94057cc38c9c0bd0e2c4ab3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Andrew Nguyen Portfolio Website\"\nformat:\n  html:\n    embed-resources: true\nengine: knitr\n---\n\n\\<div class=\"hero\"\\>\\\n\\<img src=\"yourphoto.jpg\" class=\"profile-pic\"\\>\\\n\\<h1\\>Andrew Nguyen\\</h1\\>\\\n\\<p class=\"subtitle\"\\>Marketing Student • Digital Strategy • Future Agency Owner\\</p\\>\\\n\\<a href=\"projects.html\" class=\"btn-main\"\\>View My Work\\</a\\>\\\n\\</div\\>\n\n![](images/clipboard-883360321.jpeg){width=\"184\"}\n\nMarketing Student • Digital Strategy • Future Agency Owner\n\n# About Me\n\n\\\nI am a Marketing student at Cal Poly Pomona with a strong interest in digital marketing and analytics. I focus on using data to guide marketing decisions and improve business performance.\n\n## Education\n\n- Cal Poly Pomona — B.S. Marketing \\\n- Expected Graduation: Spring 2027 \\\n\n## Skills\n\n- Google Analytics (GA4) \\\n- Data Visualization (R, Quarto) \\\n- Marketing Strategy \\\n- Social Media Marketing \\\n\n## Career Goals\n\nMy goal is to build a digital marketing agency that helps brands grow through data-driven strategies and effective online presence.\n\n## Why Hire Me\n\nI combine marketing knowledge with technical skills in analytics, allowing me to make decisions based on real data rather than guesswork.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
