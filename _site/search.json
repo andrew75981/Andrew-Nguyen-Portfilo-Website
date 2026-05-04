@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "project.qmd",
+    "section": "",
+    "text": "I earned the Google Analytics Certification through Google Skillshop, demonstrating my ability to analyze website data and generate insights.\nView Credential\n\n\n\n\nI completed a Google Analytics 4 project where I analyzed website traffic and user behavior to uncover key insights. I examined metrics such as traffic sources, engagement rates, and user activity to evaluate performance and identify areas for improvement. This project strengthened my ability to use data to support marketing strategies and make informed decisions.\nView GA4 Analysis"
+  },
+  {
+    "objectID": "projects.html#google-analytics-certification",
+    "href": "projects.html#google-analytics-certification",
+    "title": "project.qmd",
+    "section": "",
+    "text": "I earned the Google Analytics Certification through Google Skillshop, demonstrating my ability to analyze website data and generate insights.\nView Credential"
+  },
+  {
+    "objectID": "projects.html#ga4-analysis-project",
+    "href": "projects.html#ga4-analysis-project",
+    "title": "project.qmd",
+    "section": "",
+    "text": "I completed a Google Analytics 4 project where I analyzed website traffic and user behavior to uncover key insights. I examined metrics such as traffic sources, engagement rates, and user activity to evaluate performance and identify areas for improvement. This project strengthened my ability to use data to support marketing strategies and make informed decisions.\nView GA4 Analysis"
+  },
+  {
+    "objectID": "styles.html",
+    "href": "styles.html",
+    "title": "styles",
+    "section": "",
+    "text": "body {\n  font-family: -apple-system, sans-serif;\n  max-width: 1000px;\n  margin: auto;\n  padding: 20px;\n}\n\n.hero {\n  text-align: center;\n  padding: 80px 20px;\n}\n\n.hero h1 {\n  font-size: 50px;\n  font-weight: 700;\n}\n\n.subtitle {\n  color: #666;\n}\n\nh2 {\n  margin-top: 40px;\n}"
+  },
+  {
+    "objectID": "presentation.html#about-me",
+    "href": "presentation.html#about-me",
+    "title": "Marketing Strategy Presentation",
+    "section": "About Me",
+    "text": "About Me\nI’m a marketing student at Cal Poly Pomona focused on digital marketing, branding, and analytics. I enjoy building projects that solve real problems and help businesses connect with their audience more effectively.\nMy goal is to launch my own digital marketing agency and work with brands in industries like sports and lifestyle."
+  },
+  {
+    "objectID": "presentation.html#what-i-do",
+    "href": "presentation.html#what-i-do",
+    "title": "Marketing Strategy Presentation",
+    "section": "What I Do",
+    "text": "What I Do\n\n\n\n📊 Strategy\n\n\nBuilding marketing plans based on data and real audience insights.\n\n\n\n\n📱 Social Media\n\n\nCreating content and campaigns that actually engage people.\n\n\n\n\n📈 Analytics\n\n\nUsing GA4 and data to improve performance and decision making."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "dashboard.qmd",
+    "section": "",
+    "text": "Marketing Dashboard\nThis dashboard demonstrates my ability to analyze and visualize marketing data.\n\nlibrary(ggplot2)\n\nggplot(mtcars, aes(x = wt, y = mpg)) +\n  geom_point() +\n  labs(title = \"Sample Data Visualization\",\n       x = \"Weight\",\n       y = \"Miles per Gallon\")"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Nguyen",
+    "section": "",
+    "text": "Marketing Student • Digital Strategy • Future Agency Owner\nView My Work"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Andrew Nguyen",
+    "section": "About Me",
+    "text": "About Me\nI am a Marketing student at Cal Poly Pomona with a strong interest in digital marketing and analytics. I focus on using data to guide marketing decisions and improve business performance."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andrew Nguyen",
+    "section": "Education",
+    "text": "Education\n\nCal Poly Pomona — B.S. Marketing\n\nExpected Graduation: 2027"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Andrew Nguyen",
+    "section": "Skills",
+    "text": "Skills\n\nGoogle Analytics (GA4)\n\nData Visualization\n\nMarketing Strategy"
+  }
+]
